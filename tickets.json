@@ -1,0 +1,42 @@
+[
+    {
+        "id_ticket": 2,
+        "usuario": "Sandra Gelevez",
+        "descripcion": "No tiene internet. La usuaria ya tiene un cable pero no ha probado",
+        "categoria": "Red",
+        "prioridad": "Alta",
+        "estado": "En Proceso"
+    },
+    {
+        "id_ticket": 2,
+        "usuario": "DIRCEU LOZANO",
+        "descripcion": "NO TIENE INSTALADO EL SOFTWARE",
+        "categoria": "Software",
+        "prioridad": "Baja",
+        "estado": "Abierto"
+    },
+    {
+        "id_ticket": 3,
+        "usuario": "Carlos angel",
+        "descripcion": "no le funciona el pc",
+        "categoria": "Hardware",
+        "prioridad": "Media",
+        "estado": "Abierto"
+    },
+    {
+        "id_ticket": 4,
+        "usuario": "pepita perex",
+        "descripcion": "saslfaf",
+        "categoria": "Otro",
+        "prioridad": "Media",
+        "estado": "Abierto"
+    },
+    {
+        "id_ticket": 5,
+        "usuario": "maria lozada",
+        "descripcion": "la la la",
+        "categoria": "Software",
+        "prioridad": "Media",
+        "estado": "Abierto"
+    }
+]
